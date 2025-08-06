@@ -7,7 +7,7 @@ _Backend Development | REST API | Database Design | Performance Optimization_
 ---
 
 ## 🚀 Su di me
-- <img width="20" height="20" src="https://img.icons8.com/ios/50/developer--v1.png" alt="developer--v1"/> Web Developer con esperienza in **PHP** e **Laravel**, progettazione di database, REST API e ottimizzazione delle performance.
+- <img width="20" height="20" src="https://img.icons8.com/ios/50/FFFFFF/developer--v1.png" alt="developer--v1"/> Web Developer con esperienza in **PHP** e **Laravel**, progettazione di database, REST API e ottimizzazione delle performance.
 - 💻 Appassionato di tecnologia, sviluppo software e automazione
 - 📝 Mi piace condividere soluzioni a problemi reali e best practice
 - 🌱 Sto imparando continuamente nuove tecnologie e linguaggi
