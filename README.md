@@ -17,8 +17,9 @@ _Backend Development | REST API | Database Design | Performance Optimization_
 
 ## 🛠️ Competenze principali
 
-- **Linguaggi:** Python, JavaScript, Bash, SQL, PHP, C, C++, C#, TypeScript, Assembly, R, Java
-- **Framework:** Node.js, Express, React, Laravel, Electron, Flask
+- **Linguaggi:** Assembly, Bash, C / C++ / C#, Java, JavaScript / TypeScript, PHP, Python, Apps Script
+- **Markup, query e analisi dati:** HTML, CSS, SQL, R, Blade 
+- **Framework:** Node.js, Express, React, Laravel, Electron, Flask, Jakarta EE, Java Servlet, 
 - **DevOps:** Docker, GitHub Actions, CI/CD
 - **Altri:** REST API, Web scraping, automazione task
 
