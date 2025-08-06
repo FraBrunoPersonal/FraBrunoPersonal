@@ -1,6 +1,7 @@
 # 👨‍💻 Francesco Bruno
 
 Web Developer specializzato in **Laravel & PHP**  
+
 _Backend Development | REST API | Database Design | Performance Optimization_
 
 ---
@@ -16,8 +17,8 @@ _Backend Development | REST API | Database Design | Performance Optimization_
 
 ## 🛠️ Competenze principali
 
-- **Linguaggi:** Python, JavaScript, Bash, SQL, PHP, C, C++, C#, TypeScript
-- **Framework:** Node.js, Express, React, Laravel, 
+- **Linguaggi:** Python, JavaScript, Bash, SQL, PHP, C, C++, C#, TypeScript, Assembly, R, Java
+- **Framework:** Node.js, Express, React, Laravel, Electron, Flask
 - **DevOps:** Docker, GitHub Actions, CI/CD
 - **Altri:** REST API, Web scraping, automazione task
 
@@ -39,7 +40,7 @@ _Backend Development | REST API | Database Design | Performance Optimization_
 
 ## 🌐 Social & Contatti
 
-- [GitHub](https://github.com/FrancescoBruno-cmv)
+- [GitHub](https://github.com/FraBrunoPersonal)
 - [LinkedIn](https://www.linkedin.com/in/francesco-bruno-58a4b81a7/)
 - [Instagram](https://www.instagram.com/_fra._.bruno_/)
 - [Facebook](https://www.facebook.com/francesco.bruno.3388630)
